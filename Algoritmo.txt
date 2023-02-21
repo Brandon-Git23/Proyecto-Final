@@ -1,0 +1,14 @@
+El algoritmo es el siguiente.
+
+1.obtenga los datos de recargo entes, para realizar la cotizacion
+2.solicite los datos
+3.solicite el nobre de la persona
+4.solicite los años de la persona
+5.verifique que la persona sea mayor de 18 años
+6.consulte si esta casado
+7.dependiendo de la respuesta si/no
+8.pida los años de la esposa
+9.solicite si tiene hijos
+10.si la respuesta es si o no
+11.solicite la edad de los hijos
+12.con los datos recopilados haga la suma total para entregar el saldo a pagar.
